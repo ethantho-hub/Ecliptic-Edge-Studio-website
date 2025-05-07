@@ -1,0 +1,22 @@
+.navbar-light .navbar-brand {
+    color:darkred;
+}
+
+.navbar-light .colaps .navbar-nav .nav-item .nav-link {
+    color:darkred;
+}
+
+h1 {
+    color:darkred;
+}
+
+h4 {
+    color:darkred;
+}
+
+p {
+    color:darkred;
+}
+body nav a #nav-brand {
+    color:darkred;
+}
